@@ -1,10 +1,11 @@
 CS & Behavioral Neuroscience @ Northeastern University '29
-Interested in computational neuroscience, cognitive research, and building things at the intersection of software and the brain.
-Languages & Tools
-Python, Java, JavaScript, HTML/CSS, Git, Jekyll
-Currently
 
-Working on an ADHD diagnosis trends data analysis project
+Interested in computational neuroscience, cognitive research, and building things at the intersection of software and the brain.
+
+Languages & Tools: Python, Java, JavaScript, HTML/CSS, Git, Jekyll
+
+Currently
+working on an ADHD diagnosis trends data analysis project
 
 <!--
 **gryphon538/gryphon538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
