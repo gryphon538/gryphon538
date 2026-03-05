@@ -1,11 +1,9 @@
-## CS & Behavioral Neuroscience @ Northeastern University '29
+CS & Behavioral Neuroscience @ Northeastern University '29
 Interested in computational neuroscience, cognitive research, and building things at the intersection of software and the brain.
 Languages & Tools
 Python, Java, JavaScript, HTML/CSS, Git, Jekyll
 Currently
 
-Researching cognitive neuroscience as an RA
-Learning Unity and C#
 Working on an ADHD diagnosis trends data analysis project
 
 <!--
