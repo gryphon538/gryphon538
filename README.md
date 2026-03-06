@@ -4,9 +4,6 @@ Interested in computational neuroscience, cognitive research, and building thing
 
 Languages & Tools: Python, Java, JavaScript, HTML/CSS, Git, Jekyll
 
-Currently
-working on an ADHD diagnosis trends data analysis project
-
 <!--
 **gryphon538/gryphon538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
